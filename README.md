@@ -1,4 +1,4 @@
-# Korex
+# Korex - An actually good Roblox Alternative
 
 **The Roblox alternative we actually needed.**
 
