@@ -1,6 +1,9 @@
 # Korex - An actually good Roblox Alternative
 
 **The Roblox alternative we actually needed.**
+**HOLD UP NOW**
+
+The website doesn't work yet. It's just a mockup for now. The website will fully come out very soon. See you all soon!
 
 Korex is a game platform built for players who are tired of the way things are on Roblox — paywalled features, shady moderation, data leaks, and a currency that costs way more than it should. We're building something better, and we're doing it in the open.
 
