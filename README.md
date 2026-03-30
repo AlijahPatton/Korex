@@ -1,7 +1,8 @@
 # Korex - An actually good Roblox Alternative
 
 **The Roblox alternative we actually needed.**
-**HOLD UP NOW**
+
+## NOTICE
 
 The website doesn't work yet. It's just a mockup for now. The website will fully come out very soon. See you all soon!
 
